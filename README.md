@@ -20,7 +20,8 @@ install.packages("TFDEA")
 
 ### 1- Seleção de dados/tratamento
 
-As seleções de dados foram fundamentadas na literatura sobre DEA e ferrovias.
+As seleções de dados foram fundamentadas na literatura sobre DEA e ferrovias.![PRODUTIVIDADE](https://user-images.githubusercontent.com/91072668/134359343-7c85c339-6c94-456e-89ef-17d8dd3e6c57.gif)
+
 * sinteticamente as principais referencias são destacadas abaixo:
 		
 ![image](https://user-images.githubusercontent.com/91072668/134204230-7bea21c2-068a-4379-9d14-4135e5cf8130.png)
@@ -60,3 +61,8 @@ Por vezes os modelos clássicos (ou básicos) obtem mais de uma DMU como eficien
 #### 4.1 - Correção de Cook (2009)
 
 A correção de Cook (2009) tem por objetivo corrigir as situações de insolubilidade no cálculo do índice de supereficiência no caso deste modelo foi aplicado dado que a DMU FNSTN apresentou esse problema. 
+
+
+
+## PODEMOS SABER SE VOCÊ É PRODUTIVO OU SE ESTÁ A MERCÊ DO IMPERATIVO DA PROCASTINAÇÃO CONTINUA ENTÃO... CUIDADO !
+![PRODUTIVIDADE](https://user-images.githubusercontent.com/91072668/134359384-a829125c-605d-4445-a534-917831cbb015.gif)
