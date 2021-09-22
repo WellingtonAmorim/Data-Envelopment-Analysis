@@ -64,5 +64,5 @@ A correção de Cook (2009) tem por objetivo corrigir as situações de insolubi
 
 
 
-#### _PODEMOS SABER SE VOCÊ É PRODUTIVO OU SE ESTÁ A MERCÊ DO IMPERATIVO DA PROCASTINAÇÃO CONTÍNUA ENTÃO... CUIDADO !_
+#### _PODEMOS SABER SE VOCÊ É PRODUTIVO OU SE ESTÁ A MERCÊ DO IMPERATIVO DA PROCASTINAÇÃO CONTÍNUA. ENTÃO, CUIDADO... !_
 ![PRODUTIVIDADE](https://user-images.githubusercontent.com/91072668/134359384-a829125c-605d-4445-a534-917831cbb015.gif)
