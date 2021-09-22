@@ -20,7 +20,7 @@ install.packages("TFDEA")
 
 ### 1- Seleção de dados/tratamento
 
-As seleções de dados foram fundamentadas na literatura sobre DEA e ferrovias.![PRODUTIVIDADE](https://user-images.githubusercontent.com/91072668/134359343-7c85c339-6c94-456e-89ef-17d8dd3e6c57.gif)
+As seleções de dados foram fundamentadas na literatura sobre DEA e ferrovias.!
 
 * sinteticamente as principais referencias são destacadas abaixo:
 		
@@ -64,5 +64,5 @@ A correção de Cook (2009) tem por objetivo corrigir as situações de insolubi
 
 
 
-## PODEMOS SABER SE VOCÊ É PRODUTIVO OU SE ESTÁ A MERCÊ DO IMPERATIVO DA PROCASTINAÇÃO CONTINUA ENTÃO... CUIDADO !
+#### _PODEMOS SABER SE VOCÊ É PRODUTIVO OU SE ESTÁ A MERCÊ DO IMPERATIVO DA PROCASTINAÇÃO CONTÍNUA ENTÃO... CUIDADO !_
 ![PRODUTIVIDADE](https://user-images.githubusercontent.com/91072668/134359384-a829125c-605d-4445-a534-917831cbb015.gif)
