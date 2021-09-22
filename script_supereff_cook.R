@@ -8,7 +8,7 @@ dea2015<-subset(x = deadeflacionado,subset = deadeflacionado[,2]=="2015")
 dea2014<-subset(x = deadeflacionado,subset = deadeflacionado[,2]=="2014")
 dea2013<-subset(x = deadeflacionado,subset = deadeflacionado[,2]=="2013")
 
-#############################com DEAR##################################
+#############################com deaR##################################
 dea2016_dados<-read_data(dea2016,inputs=3:6,outputs=7:8)
 
 super_result<-model_supereff(datadea = dea2019_dados,
@@ -17,9 +17,11 @@ super_result<-model_supereff(datadea = dea2019_dados,
 summary(super_result)
 #########################################################################
 
-#SDEA PARA COOK CORREÇÃO
+library(TFDEA)
 
+#SDEA com correção de Cook
 
+#Aplicação para o ano de 2019
 super2019<-SDEA(x=dea2019[,3:6],
                 y=dea2019[,7:8],
                 rts = "vrs", 
@@ -74,19 +76,3 @@ sf2015<-data.frame(super2015)
 summary(sf2015$eff)
 write.table(sf2015,file = "sf2015.csv",sep = ";")
 
-getwd()
-
-
-
-
-rm(list=ls())
-TFDEA::isEfficient(super2019)
-efficiencies(super_result)
-
-da<-data.frame(super2019)
-               )
-print(da$eff)
-su
-
-
-print(dea2019$DMUs)
