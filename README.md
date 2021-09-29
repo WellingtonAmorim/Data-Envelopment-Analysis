@@ -24,7 +24,8 @@ As seleções de dados foram fundamentadas na literatura sobre DEA e ferrovias.!
 
 * sinteticamente as principais referencias são destacadas abaixo:
 		
-![image](https://user-images.githubusercontent.com/91072668/134204230-7bea21c2-068a-4379-9d14-4135e5cf8130.png)
+![image](https://user-images.githubusercontent.com/91072668/135292058-078f09a1-da5b-4c06-b04b-6edd6c28ae6c.png)
+
 
 **Obs: Os dados foram normalizados pela razão valor/média da variável em questão.** 
 
