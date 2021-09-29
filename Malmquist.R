@@ -1,5 +1,6 @@
 
 
+deadeflacionado <- read_excel("base de dados/deadeflacionado_comb.xlsx")
 Dados_malq<-read_malmquist(dados,percol=2,
                            arrangement = "vertical",
                            inputs=3:6,
