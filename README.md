@@ -41,7 +41,7 @@ a razão produto/insumo (Pesquisa Operacional).
 
 ### 3- Malmquist Index
 
-#### Investimentos aplicados em um período podem ter seus retornos em T+1 e dependendo da sua natureza em T+n, ou seja, seus efeitos podem ser sentidos no decorrer do tempo.**
+#### Investimentos aplicados em um período podem ter seus retornos em T+1 e dependendo da sua natureza em T+n, ou seja, seus efeitos podem ser sentidos no decorrer do tempo.
 
 * Mudança de eficiência no tempo:
 1. Window Analysis: analisa-se os scores de eficiência obtidos dos modelos clássicos e o seu comportamento ao longo do tempo.
