@@ -44,7 +44,7 @@ a razão produto/insumo (Pesquisa Operacional).
 #### Investimentos aplicados em um período podem ter seus retornos em T+1 e dependendo da sua natureza em T+n, ou seja, seus efeitos podem ser sentidos no decorrer do tempo.**
 
 * Mudança de eficiência no tempo:
-1. Window Analysis: analisa-se os scores de eficiência obtidos dos modelos classicos e o seu comportamento ao longo do tempo.
+1. Window Analysis: analisa-se os scores de eficiência obtidos dos modelos clássicos e o seu comportamento ao longo do tempo.
 2. A partir do conceito do índice desenvolvido por Mamlquist (1953)
 ##### Dados em painel 
 * Índice de Malmquist (MI): Compara a mudança de produtividade de uma unidade entre dois períodos de tempo (Estática comparativa). Sendo calculado a partir de dois termos:
@@ -54,7 +54,7 @@ a razão produto/insumo (Pesquisa Operacional).
 
 ### 4- Análise de Supereficiência
 
-Por vezes os modelos clássicos (ou básicos) obtem mais de uma DMU como eficiente **não podendo distingui-las dificultando dizer quem dentre as eficientes é a mais eficiente.** 
+Por vezes os modelos clássicos (ou básicos) obtêm mais de uma DMU como eficiente **não podendo distingui-las dificultando dizer quem dentre as eficientes é a mais eficiente.** 
 * Um dos caminhos para contornar essa limitação é proposto por Andersen e Petersen (1993) que apresenta a análise de supereficiência.
 
 * Simplificando o método, a análise de supereficiência consiste na exclusão da DMU em análise do conjunto de referência, em outras palavras, a fronteira nesta aplicação é feita apenas pelos eficientes identificados nos modelos básicos com exceção da DMU de interesse. Permitindo assim que a DMU que anteriormente era apenas eficiente, obtenha um indicador individual que trás consigo o princípio de **comparatibilidade** (Os scores obtidos através da supereficiencia na maioria das vezes é maior que 1).
